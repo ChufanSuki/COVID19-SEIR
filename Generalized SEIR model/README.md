@@ -19,9 +19,9 @@
 
 ## 模型建立
 
-![image-20200518181242878](/Users/allen/Library/Application Support/typora-user-images/image-20200518181242878.png)
+![image-20200518181242878](model.png)
 
-![image-20200518181254338](/Users/allen/Library/Application Support/typora-user-images/image-20200518181254338.png)
+![image-20200518181254338](equation.png)
 
 
 
@@ -29,15 +29,15 @@
 
 参数估计部分使用的是模拟退火算法
 
-![process](/Users/allen/COVID19-SEIR/Generalized SEIR model/process.jpg)
+![process](process.jpg)
 
 得到武汉市前21天的拟合曲线
 
-![fit](/Users/allen/COVID19-SEIR/Generalized SEIR model/fit.jpg)
+![fit](fit.jpg)
 
 预期70天之内的曲线
 
-![predict](/Users/allen/COVID19-SEIR/Generalized SEIR model/predict.jpg)
+![predict](predict.jpg)
 
 ## 代码
 
@@ -163,14 +163,14 @@ fit(alpha, beta, gamma, delta, A, B, S, E, I, R, H, D, N)
 
 ## 模型建立
 
-![image-20200518181655464](/Users/allen/Library/Application Support/typora-user-images/image-20200518181655464.png)
+![image-20200518181655464](https://raw.githubusercontent.com/ryansmcgee/seirsplus/master/images/SEIRStesting_diagram.png)
 
 <img src="https://raw.githubusercontent.com/ryansmcgee/seirsplus/master/images/SEIRStesting_deterministic_equations.png" alt="%" style="zoom:50%;" />
 
 
 ## 模型求解
 
-![](/Users/allen/Downloads/download.png)
+![](model2.png)
 
 ## 代码
 
